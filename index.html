@@ -7,11 +7,35 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Try Series</title>
     <link rel="stylesheet" href="style.css">
+    <script src="https://kit.fontawesome.com/3ace6e262b.js" crossorigin="anonymous"></script>
     <script src="./helpers/fetchSeries.js" defer></script>
     <script src="script.js" defer></script>
   </head>
 
   <body>
+    <header>
+      <h1 class="display-1">Try Series</h1>
+    </header>
+    <nav>
+      <label for="filter">
+        <select name="filter" id="filter" class="form-select form-select-sm">
+          <option value="">Gênero</option>
+          <option value="">Nome</option>
+          <option value="">Idioma</option>
+        </select>
+      </label>
+
+      <label for="value">Valor:
+      <input type="" id="value">
+    </label>
+
+    <button id="btn-filter" class="btn btn-light">Filtrar</button>
+    <button id="btn-sort" class="btn btn-light">Ordem alfabética</button>
+    </nav>
+
+    <main>
+      <section id="series-section"></section>
+    </main>
     
   </body>
 
