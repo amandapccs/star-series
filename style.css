@@ -4,13 +4,21 @@ h1 {
     font-family: 'Chewy', cursive;
     font-size: 5rem;
     text-align: center;
-    margin: 0;
-    color:rgb(177, 124, 202)
+    margin-bottom: 0;
+    color:rgb(239, 170, 196);
 }
 
 header {
-    background-color: rgb(221, 189, 213);
-    margin-bottom: 5px;
+    background-color: rgb(241, 222, 220);
+    padding: 10px;
+}
+
+#nav-section {
+    background-color: rgb(255, 196, 209);
+    width: 100%;
+    padding-top: 10px;
+    border-bottom: 5px solid rgb(203, 179, 191);
+    border-top: 5px solid rgb(203, 179, 191);
 }
 
 nav {
@@ -23,8 +31,9 @@ nav {
     margin-bottom: 10px;
 }
 
-body {
-    background-color: rgb(247, 235, 236);
+main {
+    padding-top: 15px;
+    background-color: rgb(241, 222, 220);
 }
 
 section {
