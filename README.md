@@ -40,8 +40,3 @@ Endpoint utilizado:
 ## Imagens da aplicação em funcionamento
 ![zjc5PLK](https://user-images.githubusercontent.com/97243572/169714657-98c94cb8-9666-4fc9-94b0-f5d8172e6844.jpg)
 - Tela inicial da aplicação exibindo as séries.
-
-
-## Pessoa responsável pelo desenvolvimento:
-1. [amandapccs](https://github.com/amandapccs)
-
