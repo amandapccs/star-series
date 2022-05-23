@@ -18,8 +18,6 @@ Neste projeto foi desenvolvido uma página que renderiza séries utilizando a AP
 
 [Imagens da aplicação em funcionamento](#imagens-da-aplicação-em-funcionamento)
 
-[Pessoa responsável pelo desenvolvimento](#pessoa-responsável-pelo-desenvolvimento)
-
 ## Tecnologias
 
 - Projeto desenvolvido na linguagem Javascript;
